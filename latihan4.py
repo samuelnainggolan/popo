@@ -304,7 +304,7 @@ database = baca_database()
 # HEADER APLIKASI
 # =========================================================
 
-st.title("📚 AI Tutor Bahasa Indonesia")
+st.title("📚 AI Tutor Bahasa Indonesia Samuel")
 
 st.write(
     "Sistem pembelajaran berbasis Python, "
