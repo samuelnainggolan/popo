@@ -9,7 +9,7 @@ from collections import Counter
 # =========================================================
 
 st.set_page_config(
-    page_title="AI Tutor Bahasa Indonesia, samuel",
+    page_title="AI Tutor Bahasa Indonesia",
     page_icon="📚",
     layout="wide"
 )
